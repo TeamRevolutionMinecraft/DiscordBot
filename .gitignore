@@ -1,0 +1,22 @@
+# IDE Files
+.vscode/
+.idea/
+
+# Tempfiles
+temp/
+
+# Eviroments
+venv/
+discordBot/
+.env/
+
+# Build files
+*.egg-info
+build/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# datafile
+data/

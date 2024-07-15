@@ -1,0 +1,12 @@
+{
+    "perm": {
+        "delete" : ["admin", "supporter", "lore"],
+        "reload" : ["admin"]
+    },
+
+    "messages": {
+        "no_permission": "Tut mir sehr leid, leider hast du nicht die notwendigen Rechte.",
+        "to_many_messages": "Tut mir sehr leid. Ich kann nicht mehr als 100 Nachrichten auf einmal entfernen"
+    }
+
+}
